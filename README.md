@@ -15,8 +15,8 @@ My interest in technology and problem-solving has led me to develop a passion fo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/christiangarcia1010/Honeypot-Lab-T-Pot-Deployment-and-Cyber-Threat-Monitoring.">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Independent</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/christiangarcia1010/Honeypot-Lab-T-Pot-Deployment-and-Cyber-Threat-Monitoring.">Independent</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
